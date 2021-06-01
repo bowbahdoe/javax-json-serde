@@ -1,2 +1,2 @@
-## A basic wrapper around Jetty's Servlet API based on Ring
+## Basic pattern for explicit Json encoders and decoders
 
